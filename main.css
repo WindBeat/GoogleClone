@@ -166,6 +166,18 @@ button:hover {
 	border: 1.5px solid #c6c6c6;
 }
 
+#voice {
+	background: url(data:image/gif;base64,R0lGODlhHAAmAKIHAKqqqsvLy0hISObm5vf394uLiwAAAP///yH5BAEAAAcALAAAAAAcACYAAAO9eLpMIMYIQJi9DcYtKv6KtnHgB4yoAZSXKAyDy1rjoAzjzOQLrx8+4OanCAZnxiExGSEKmz3lj2lwUq3SZ3WZPbKuXGgxu9t4tLYDTkpIRQILF0x2G4lWipM7gj/oJQUkcXsCDCIFATULBCIcZ2tvB3QLDxETFnR/BgU/gRt9jX0gnpYMkJZpFzEoqQqJKAIBaQOVKHAXr3t7txgBjboSvB8EpLoFZywOAo3LFE5lYs/QW9LT1TRk1V7S2xYJADs=) no-repeat center;
+	background-size: 14px 19px;
+	height: 20px;
+	width:20px;
+	display: inline-block;
+	opacity: 0.6;
+	position: absolute;
+	top: 17px;
+	right: 335px;
+}
+
 footer {
 	position: fixed;
 	bottom: 0px;
